@@ -12,3 +12,6 @@ def operate(x,y):
 
 if __name__=='__main__':
     main('numbers.in','numbers.out')
+
+def func():
+    print("Guadalupe es tonta")
